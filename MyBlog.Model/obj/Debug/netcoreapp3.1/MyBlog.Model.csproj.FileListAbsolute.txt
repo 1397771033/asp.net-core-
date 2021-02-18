@@ -1,0 +1,9 @@
+D:\C#基础录制视频\MyBlog\MyBlog.Model\bin\Debug\netcoreapp3.1\MyBlog.Model.deps.json
+D:\C#基础录制视频\MyBlog\MyBlog.Model\bin\Debug\netcoreapp3.1\MyBlog.Model.dll
+D:\C#基础录制视频\MyBlog\MyBlog.Model\bin\Debug\netcoreapp3.1\MyBlog.Model.pdb
+D:\C#基础录制视频\MyBlog\MyBlog.Model\obj\Debug\netcoreapp3.1\MyBlog.Model.csprojAssemblyReference.cache
+D:\C#基础录制视频\MyBlog\MyBlog.Model\obj\Debug\netcoreapp3.1\MyBlog.Model.AssemblyInfoInputs.cache
+D:\C#基础录制视频\MyBlog\MyBlog.Model\obj\Debug\netcoreapp3.1\MyBlog.Model.AssemblyInfo.cs
+D:\C#基础录制视频\MyBlog\MyBlog.Model\obj\Debug\netcoreapp3.1\MyBlog.Model.csproj.CoreCompileInputs.cache
+D:\C#基础录制视频\MyBlog\MyBlog.Model\obj\Debug\netcoreapp3.1\MyBlog.Model.dll
+D:\C#基础录制视频\MyBlog\MyBlog.Model\obj\Debug\netcoreapp3.1\MyBlog.Model.pdb

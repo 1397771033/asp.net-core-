@@ -1,0 +1,12 @@
+D:\C#基础录制视频\MyBlog\MyBlog.IService\bin\Debug\netcoreapp3.1\MyBlog.IService.deps.json
+D:\C#基础录制视频\MyBlog\MyBlog.IService\bin\Debug\netcoreapp3.1\MyBlog.IService.dll
+D:\C#基础录制视频\MyBlog\MyBlog.IService\bin\Debug\netcoreapp3.1\MyBlog.IService.pdb
+D:\C#基础录制视频\MyBlog\MyBlog.IService\bin\Debug\netcoreapp3.1\MyBlog.Model.dll
+D:\C#基础录制视频\MyBlog\MyBlog.IService\bin\Debug\netcoreapp3.1\MyBlog.Model.pdb
+D:\C#基础录制视频\MyBlog\MyBlog.IService\obj\Debug\netcoreapp3.1\MyBlog.IService.csprojAssemblyReference.cache
+D:\C#基础录制视频\MyBlog\MyBlog.IService\obj\Debug\netcoreapp3.1\MyBlog.IService.AssemblyInfoInputs.cache
+D:\C#基础录制视频\MyBlog\MyBlog.IService\obj\Debug\netcoreapp3.1\MyBlog.IService.AssemblyInfo.cs
+D:\C#基础录制视频\MyBlog\MyBlog.IService\obj\Debug\netcoreapp3.1\MyBlog.IService.csproj.CoreCompileInputs.cache
+D:\C#基础录制视频\MyBlog\MyBlog.IService\obj\Debug\netcoreapp3.1\MyBlog.IService.csproj.CopyComplete
+D:\C#基础录制视频\MyBlog\MyBlog.IService\obj\Debug\netcoreapp3.1\MyBlog.IService.dll
+D:\C#基础录制视频\MyBlog\MyBlog.IService\obj\Debug\netcoreapp3.1\MyBlog.IService.pdb

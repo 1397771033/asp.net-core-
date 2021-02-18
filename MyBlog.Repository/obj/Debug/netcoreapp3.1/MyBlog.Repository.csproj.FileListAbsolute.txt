@@ -1,0 +1,14 @@
+D:\C#基础录制视频\MyBlog\MyBlog.Repository\bin\Debug\netcoreapp3.1\MyBlog.IRepository.dll
+D:\C#基础录制视频\MyBlog\MyBlog.Repository\bin\Debug\netcoreapp3.1\MyBlog.Model.dll
+D:\C#基础录制视频\MyBlog\MyBlog.Repository\obj\Debug\netcoreapp3.1\MyBlog.Repository.csprojAssemblyReference.cache
+D:\C#基础录制视频\MyBlog\MyBlog.Repository\obj\Debug\netcoreapp3.1\MyBlog.Repository.AssemblyInfoInputs.cache
+D:\C#基础录制视频\MyBlog\MyBlog.Repository\obj\Debug\netcoreapp3.1\MyBlog.Repository.AssemblyInfo.cs
+D:\C#基础录制视频\MyBlog\MyBlog.Repository\bin\Debug\netcoreapp3.1\MyBlog.Repository.deps.json
+D:\C#基础录制视频\MyBlog\MyBlog.Repository\bin\Debug\netcoreapp3.1\MyBlog.Repository.dll
+D:\C#基础录制视频\MyBlog\MyBlog.Repository\bin\Debug\netcoreapp3.1\MyBlog.Repository.pdb
+D:\C#基础录制视频\MyBlog\MyBlog.Repository\bin\Debug\netcoreapp3.1\MyBlog.IRepository.pdb
+D:\C#基础录制视频\MyBlog\MyBlog.Repository\bin\Debug\netcoreapp3.1\MyBlog.Model.pdb
+D:\C#基础录制视频\MyBlog\MyBlog.Repository\obj\Debug\netcoreapp3.1\MyBlog.Repository.csproj.CoreCompileInputs.cache
+D:\C#基础录制视频\MyBlog\MyBlog.Repository\obj\Debug\netcoreapp3.1\MyBlog.Repository.csproj.CopyComplete
+D:\C#基础录制视频\MyBlog\MyBlog.Repository\obj\Debug\netcoreapp3.1\MyBlog.Repository.dll
+D:\C#基础录制视频\MyBlog\MyBlog.Repository\obj\Debug\netcoreapp3.1\MyBlog.Repository.pdb
